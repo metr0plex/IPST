@@ -23,3 +23,4 @@ while (found === false && start <= end) {
     }
 }
 console.log(position)
+

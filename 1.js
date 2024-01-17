@@ -2,5 +2,4 @@
 
 let message = 'DDADSADASDAAADS'
 let str = new Set(message)
-
 console.log(str)

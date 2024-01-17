@@ -12,7 +12,6 @@ for (i=0; i<firstArray.length; i++){
             firstArray[j+1]=a
         }
     }
-
 }
 console.log(firstArray)
 let array=firstArray.concat(secondArray)
